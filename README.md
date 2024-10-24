@@ -17,6 +17,10 @@
   - Brief description of the project, technologies used, and what was achieved.
 - [Project 2 Title](link to project)
   - Brief description of the project, technologies used, and what was achieved.
+    
+### 🏅 Education:
+- Bachelor of Business Administration (BBA) in Supply Chain Management at Cleveland State University (CSU)
+- Master’s in Management Information Systems (MIS) at the University of Illinois
 
 ### 📫 How to reach me:
 - LinkedIn: www.linkedin.com/in/jhonathan-espinoza-094442113
