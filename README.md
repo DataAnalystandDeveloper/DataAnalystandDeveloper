@@ -13,8 +13,8 @@
 - **Other**: Web scraping, data cleaning, and Data analysis
 
 ### 📊 Projects:
-- [Project 1 File Organizer]()
-  - Brief description of the project, technologies used, and what was achieved.
+- [Project 1 File Organizer](https://github.com/DataAnalystandDeveloper/File-Sorter)
+  - 
 - [Project 2 Title](link to project)
   - Brief description of the project, technologies used, and what was achieved.
     
