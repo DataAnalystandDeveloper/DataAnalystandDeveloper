@@ -42,7 +42,7 @@ Reviews
 The scraped data is saved to an Excel file for easy analysis and review.
 
 - [Project 5 Excel files consolidation python script](https://github.com/DataAnalystandDeveloper/Union-files)
-# Excel Data Consolidation Script
+ - Excel Data Consolidation Script
 This Python script reads multiple Excel files from a specified folder, extracts data from a particular sheet ("Summary"), processes it by removing unnecessary rows, and consolidates it into a single Excel output file.
 ## Overview
 The script reads all `.xlsx` files in a specified input directory, searches for a sheet named "Summary" in each file, and:
