@@ -70,6 +70,6 @@ Additional Customization: Easily add other functions or features as needed.
 - Master’s in Management Information Systems (MIS) at the University of Illinois
 
 ### 📫 How to reach me:
-- LinkedIn: www.linkedin.com/in/jhonathan-espinoza-094442113
+- LinkedIn: www.linkedin.com/in/jhonathan-espinoza
 - Tableau Public: https://public.tableau.com/app/profile/jhonathan.espinoza
 - Email: Jhonathan.Espinoza.87@gmail.com
