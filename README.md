@@ -56,6 +56,15 @@ Data Filtering**: Retains only relevant rows by locating the "Location" keyword.
 Data Cleaning**: Removes empty columns and rows.
 Consolidated Output**: Exports a single consolidated file to a specified directory.
 
+- [Project 6 Access using tabcmd and merging pdfs from tableau](https://github.com/DataAnalystandDeveloper/Access-using-tabcmd-and-merging-pdfs-from-tableau)
+ -Tableau PDF Export, Merge, and Page Numbering Automation
+This project automates exporting views from Tableau, merging non-blank PDF files, and adding page numbers to the final merged PDF. It uses Python along with several libraries (subprocess, PyPDF2, glob2, fitz from PyMuPDF, and os) to streamline the process.
+Features
+Export Views from Tableau: Export Tableau views as PDFs using the tabcmd command-line utility.
+Merge PDFs: Combine exported PDFs into a single PDF file, excluding any blank pages.
+Add Page Numbers: Append page numbers to the final merged PDF.
+Additional Customization: Easily add other functions or features as needed.
+
 ### 🏅 Education:
 - Bachelor of Business Administration (BBA) in Supply Chain Management at Cleveland State University (CSU)
 - Master’s in Management Information Systems (MIS) at the University of Illinois
